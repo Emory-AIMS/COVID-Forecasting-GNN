@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+src/*.txt
+src/*.sh
+src/*.out
+**/__pycache__/
+src/save/
+src/tensorboard/
+src/result/
+src/data_pre-processing/raw_data/
+__pycache__
+src/stan/data/state_covid_data.pickle
